@@ -33,4 +33,4 @@ Durante o desenvolvimento, foram praticados:
 
 ## Autor  
 **Valdinei Conceição**  
-[GitHub](https://github.com/ValdineiCS) | [Portfólio](https://valdineics.github.io/portifolio/)  
+[GitHub](https://github.com/ValdineiCS) | [Portfólio](https://valdineics.github.io/Portfolio/)  
